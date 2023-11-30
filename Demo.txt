@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 Tomorrow if i am not practicing then i will not come for class.
 
 Stash I will complete today.
+=======
+Tomorrow If I am not practicing then i will not come for class.
+>>>>>>> Stashed changes
